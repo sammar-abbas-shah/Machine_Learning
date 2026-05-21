@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 
-> A collection of Machine Learning algorithms and implementations from my fourth semester coursework at university.
+> A collection of Machine Learning algorithms and implementations from my fourth semester coursework at Barani Institute of Information Technology.
 
 ## 📖 Overview
 
